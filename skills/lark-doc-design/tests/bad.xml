@@ -1,0 +1,22 @@
+<title>反例</title>
+<p></p>
+<h1>一级标题</h1>
+<h2>💡 带表情的标题</h2>
+<callout emoji="⚠️" background-color="light-yellow" border-color="yellow"><p>警告</p></callout>
+<callout emoji="💡"><p>a</p></callout>
+<callout emoji="💡"><p>b</p></callout>
+<callout emoji="📌"><p>c</p></callout>
+<ol><li>① 第一步</li><li>② 第二步</li></ol>
+<p>这是一句非常非常长的句子，长度明显超过了三十个字，读起来会觉得很挤很累而且不好扫读。</p>
+<h2>没有分割线的标题</h2>
+<whiteboard type="mermaid">flowchart LR
+  A --&gt; B</whiteboard>
+<h3>小节</h3>
+<table><colgroup><col/><col/><col/><col/><col/></colgroup><tbody><tr><td><p>1</p></td></tr></tbody></table>
+<whiteboard type="mermaid">sequenceDiagram
+  A-&gt;&gt;B: 合并（MR）“引号”</whiteboard>
+<p></p>
+<p></p>
+<p><em>斜体</em><span text-color="blue">蓝字</span><span background-color="yellow">底色</span>！！</p>
+<time expire-time="1" notify-time="1" should-notify="false">x</time>
+<p>最后更新：2026-10-20｜维护：某人</p>

@@ -1,0 +1,24 @@
+<title>正例</title>
+<callout emoji="💡" background-color="light-blue" border-color="blue"><p>这页帮你<b>把改动提交到开发分支</b>。<br/>每步做完都有检查点。</p></callout>
+<p></p>
+<p>开始前，先装好 UGit。</p>
+<whiteboard type="mermaid">flowchart LR
+  A["① 切分支"] --&gt; B["② 提交、推送"]</whiteboard>
+<p>前 2 步你来做。</p>
+<p></p>
+<hr/>
+<h2>第 1 步　切到开发分支</h2>
+<ol><li>保存，关掉 Unity。</li><li>点 <b>拉取</b>，再检出分支。</li></ol>
+<p></p>
+<img path="@./x.png" caption="检出后，左上角显示当前分支"/>
+<p></p>
+<p><span text-color="green">✅ 完成后：</span>当前分支是这条分支。</p>
+<p></p>
+<callout emoji="❗" background-color="light-yellow" border-color="yellow"><p>有没提交的修改？先停手，截图问程序。</p></callout>
+<p></p>
+<hr/>
+<h2>不要做的事</h2>
+<callout emoji="⛔" background-color="light-red" border-color="red"><p>不要强推。</p></callout>
+<p></p>
+<button action="OpenLink" src="https://example.com" background-color="blue">遇到问题？打开求助页</button>
+<p>也可以直接找工作项程序。</p>
